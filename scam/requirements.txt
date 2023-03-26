@@ -1,0 +1,6 @@
+aiogram
+telebot
+sqlite3
+datetime
+json
+asyncio
